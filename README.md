@@ -1,3 +1,3 @@
 # raytracing-c
 
-A basic ray-tracing program written in C.
+A basic ray-tracing program written in C using Dev-Cpp.
